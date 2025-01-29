@@ -1,0 +1,14 @@
+{
+    "default_drv_path": "E:\\chromedriver\\chromedriver-win64\\chromedriver.exe",
+    "ele_target": {
+        "UsernameBox": "login__password_userName",
+        "PasswordBox": "login__password_password",
+        "ClickableObject": [
+            ".ant-btn",
+            ".ant-btn-primary",
+            ".ant-btn-lg",
+            ".ant-btn-block"
+        ]
+    },
+    "scene_url": "https://teacher.ewt360.com/ewtbend/bend/index/index.html#/holiday/student/home?sceneId=161&grade=1"
+}
